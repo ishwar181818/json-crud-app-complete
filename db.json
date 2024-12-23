@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "productName": "Watch",
+      "description": "Analog watch",
+      "manufacturer": "Titan-01",
+      "price": 2000,
+      "availableStock": 500,
+      "isAvailable": true,
+      "id": "prod01"
+    },
+    {
+      "productName": "Pen",
+      "description": "Red ball pen",
+      "manufacturer": "Cello",
+      "price": 10,
+      "availableStock": "40",
+      "isAvailable": true,
+      "id": "prod02"
+    },
+    {
+      "id": "53e5",
+      "productName": "Pendrive",
+      "description": "128 gb memory",
+      "manufacturer": "Sandicks",
+      "price": "200",
+      "availableStock": "10",
+      "isAvailable": true
+    },
+    {
+      "productName": "TV",
+      "description": "Small led tv",
+      "manufacturer": "TATA SKY",
+      "price": "20000",
+      "availableStock": "400",
+      "isAvailable": true,
+      "id": "9ac4"
+    },
+    {
+      "id": "b6e7",
+      "productName": "Fridge",
+      "description": "Fridge Cool",
+      "manufacturer": "Amazon",
+      "price": "20000",
+      "availableStock": "20",
+      "isAvailable": true
+    },
+    {
+      "productName": "Bike-01",
+      "description": "Bike",
+      "manufacturer": "Honda",
+      "price": "400000",
+      "availableStock": "2",
+      "isAvailable": true,
+      "id": "4132"
+    },
+    {
+      "productName": "Cycle",
+      "description": "Ladybird HJ-02",
+      "manufacturer": "Amazon",
+      "price": "12000",
+      "availableStock": "2",
+      "isAvailable": true,
+      "id": "3bf1"
+    },
+    {
+      "id": "e41f",
+      "productName": "Car",
+      "description": "Toyota Car",
+      "manufacturer": "Mahindra",
+      "price": "200000",
+      "availableStock": "0",
+      "isAvailable": false
+    }
+  ]
+}
